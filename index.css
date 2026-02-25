@@ -13,7 +13,7 @@ body{
         indigo,
         violet
     );
-    background-size: 60% 60%;
+    background-size: 60%;
     animation: rainbow 10s ease infinite;
 }
 
@@ -51,7 +51,7 @@ body{
 
 footer{
     margin-top: 50px;
-    color: #777;
+    color: #2e2e2e;
 
 }
 footer p {
