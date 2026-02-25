@@ -25,7 +25,9 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+  
 }
 #btn:hover{
     background-color: #5a8c5a;
@@ -42,4 +44,12 @@ footer p {
 .contact{
     color: #525252;
     font-weight: bold;
+}
+img{
+    margin-top: 20px;
+    margin-left: 5px;
+    max-width: 50%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
