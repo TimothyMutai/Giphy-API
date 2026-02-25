@@ -2,3 +2,44 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
+.h1{
+    color: #333;
+    margin-top: 20px;
+    transition: Blue Red Green Orange 0.3s ease;
+}
+.h1:hover{
+    color: Blue;
+}
+#search{
+    padding: 5px;
+    width: 300px;
+    border: 1px solid #b670aa;
+    border-radius: 10px;
+    margin-top: 20px;
+    border-style: solid;
+}
+#btn{
+    padding: 10px 20px;
+    background-color: #70b681;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#btn:hover{
+    background-color: #5a8c5a;
+}
+
+footer{
+    margin-top: 50px;
+    color: #777;
+
+}
+footer p {
+    margin: 5px 0;
+}
+.contact{
+    color: #525252;
+    font-weight: bold;
+}
